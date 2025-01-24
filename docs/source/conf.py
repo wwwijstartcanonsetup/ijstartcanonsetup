@@ -35,5 +35,6 @@ html_theme_options = {
     'canonical_url': 'https://canonoobe.com/',
 }
 
+
 # -- Options for EPUB output
 # For EPUB output, you can add configurations if needed, but it's not required here
